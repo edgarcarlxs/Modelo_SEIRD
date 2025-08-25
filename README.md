@@ -1,2 +1,2 @@
-# introdu-o_ciencia_de_dados
-Neste repositório, irei representar as listas de exercícios, provas e projetos referentes a eletiva de Introdução e Ciência de Dados  
+# Modelo SEIRD
+Este projeto busca realizar um estudo sobre a disseminação da meningite, uma grave doença inflamatória que pode levar à morte. O foco do estudo é a Região Nordeste, utilizando o modelo SEIRD para analisar o possível comportamento futuro da doença na região, a partir da análise dos dados implementados no modelo e da resolução do sistema de EDOs. Com isso, os resultados serão analisados em comparação com dados reais, a fim de compreender o comportamento dessa doença, que compromete a saúde da população.
